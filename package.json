@@ -1,0 +1,11 @@
+{
+  "name": "my-bind",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/zlf-1996/my-bind.git",
+  "author": "zhanglifan <157670040@qq.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "node test/index.js"
+  }
+}
